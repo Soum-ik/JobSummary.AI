@@ -18,6 +18,7 @@ const AnimatedBlob = ({
   scale?: boolean,
   rotate?: boolean
 }) => {
+  
   return (
     <motion.div
       className={`absolute rounded-full blur-[80px] opacity-30 ${className}`}
