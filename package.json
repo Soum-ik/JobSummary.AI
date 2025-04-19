@@ -15,8 +15,7 @@
     "next": "15.2.2",
     "openai": "^4.87.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-quill": "^2.0.0"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "typescript": "^5",
